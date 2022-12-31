@@ -4,3 +4,4 @@
 /.idea/
 /aplication/__pycache__/
 /aplication/db/__pycache__/
+.gitignore
